@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## Evan Freymiller
+# Evan Freymiller
 www.evanfreymiller.com
 
 <!--
